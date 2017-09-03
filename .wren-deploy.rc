@@ -1,0 +1,3 @@
+export MAVEN_PACKAGE="forgerock-i18n-framework"
+export BINTRAY_PACKAGE="wrensec-i18n-framework"
+export JFROG_PACKAGE="org/forgerock/commons/i18n-framework"
